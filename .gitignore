@@ -1,0 +1,17 @@
+# Directorios 
+/build
+/main/certs
+
+# Archivos de configuracion
+/main/Kconfig.projbuild
+/sdkconfig
+/sdkconfig.old
+/sdkconfig.ci
+/**/sdk_config.h
+/main/esp_config.h
+
+# Visual Studio Code
+.vscode/*
+
+# Archivo python 
+mqtt_tcp_example_test.py
