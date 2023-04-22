@@ -8,7 +8,8 @@
 /sdkconfig.old
 /sdkconfig.ci
 /**/sdk_config.h
-/main/esp_config.h
+/main/include/esp_config.h
+/main/include/conn_config.h
 
 # Visual Studio Code
 .vscode/*
